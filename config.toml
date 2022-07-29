@@ -1,4 +1,4 @@
-baseURL = 'https://0xmason.com/'
+baseURL = 'https://www.0xmason.com/'
 languageCode = 'en-us'
 title = '0xMason'
 theme =  ["github.com/Mitrichius/hugo-theme-anubis"]
