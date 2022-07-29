@@ -1,4 +1,4 @@
-baseURL = 'https://imaginative-twilight-129ef8.netlify.app/'
+baseURL = 'https://0xmason.com/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = '0xMason'
 theme =  ["github.com/Mitrichius/hugo-theme-anubis"]
