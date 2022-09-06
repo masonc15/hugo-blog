@@ -4,7 +4,7 @@ date: 2022-09-05T20:54:12-04:00
 summary: "In no particular order."
 draft: false
 ---
-I've been busy starting a new job so I haven't had a lot of time to freewrite or think of blog post ideas.
+I've been busy starting a new job so I haven't had a lot of time to write or think of blog post ideas.
 
 With that in mind, I want to start monthly linkposts. (Credit to [those](https://astralcodexten.substack.com/p/links-for-june-1e7) [who](https://slimemoldtimemold.com/2022/08/30/links-for-august-2022/) [came](https://nintil.com/links-61) [before](https://guzey.com/links/#mar-2020)) This is a way for me to remember worthwhile links and also signal boost cool bloggers or things I've been interested in.
 
