@@ -1,0 +1,16 @@
+baseURL: https://www.0xmason.com/
+languageCode: "en-us"
+title: "0xMason"
+theme: "github.com/Mitrichius/hugo-theme-anubis"
+
+menu:
+  main:
+  - identifier: archive
+    name: Archive
+    title: Archive
+    url: /posts/
+    weight: 0
+
+
+params:
+  dateFormat: "Jan "
