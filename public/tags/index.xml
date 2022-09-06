@@ -1,13 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on My New Hugo Site</title>
-    <link>https://imaginative-twilight-129ef8.netlify.app/tags/</link>
-    <description>My New Hugo Site (Tags)</description>
+    <title>Tags on 0xMason</title>
+    <link>https://www.0xmason.com/tags/</link>
+    <description>0xMason (Tags)</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <lastBuildDate>Fri, 29 Jul 2022 16:00:14 -0400</lastBuildDate>
     
-    <atom:link href="https://imaginative-twilight-129ef8.netlify.app/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://www.0xmason.com/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>

@@ -2,10 +2,30 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://imaginative-twilight-129ef8.netlify.app/categories/</loc>
+    <loc>https://www.0xmason.com/</loc>
+    <lastmod>2022-09-05T20:54:12-04:00</lastmod>
   </url><url>
-    <loc>https://imaginative-twilight-129ef8.netlify.app/</loc>
+    <loc>https://www.0xmason.com/post/august-links/</loc>
+    <lastmod>2022-09-05T20:54:12-04:00</lastmod>
   </url><url>
-    <loc>https://imaginative-twilight-129ef8.netlify.app/tags/</loc>
+    <loc>https://www.0xmason.com/post/</loc>
+    <lastmod>2022-09-05T20:54:12-04:00</lastmod>
+  </url><url>
+    <loc>https://www.0xmason.com/tags/github/</loc>
+    <lastmod>2022-07-29T16:00:14-04:00</lastmod>
+  </url><url>
+    <loc>https://www.0xmason.com/tags/markdown/</loc>
+    <lastmod>2022-07-29T16:00:14-04:00</lastmod>
+  </url><url>
+    <loc>https://www.0xmason.com/post/my-first-post/</loc>
+    <lastmod>2022-07-29T16:00:14-04:00</lastmod>
+  </url><url>
+    <loc>https://www.0xmason.com/tags/</loc>
+    <lastmod>2022-07-29T16:00:14-04:00</lastmod>
+  </url><url>
+    <loc>https://www.0xmason.com/tags/website/</loc>
+    <lastmod>2022-07-29T16:00:14-04:00</lastmod>
+  </url><url>
+    <loc>https://www.0xmason.com/categories/</loc>
   </url>
 </urlset>
